@@ -1,0 +1,2 @@
+c:\users\ritesh\documents\visual studio 2015\Projects\DeckofCards\DeckofCards\bin\Debug\DeckofCards.exe.config
+c:\users\ritesh\documents\visual studio 2015\Projects\DeckofCards\DeckofCards\obj\Debug\DeckofCards.csprojResolveAssemblyReference.cache
